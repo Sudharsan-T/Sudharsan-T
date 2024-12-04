@@ -7,7 +7,7 @@ Data Analyst
 - 🤔 I’m looking for help with Natural Language Processing
 - 💬 Ask me about Datas
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sudharsan-t-85361b1a4)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sudharsan-t-85361b1a4/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I Roast.
 
