@@ -1,6 +1,5 @@
 ## Hi there 👋 It's me Sudharsan
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW8ycGR4dzh3c29iNTZnZTNxNHd1cWplZmowZG9hdjRvaTczN3g5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uKWBNet3fFTP9ZDZIg/giphy.gif)">
-Data Analyst
+
 - 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on AI/ML
 - 🤔 I’m looking for help with Natural Language Processing
