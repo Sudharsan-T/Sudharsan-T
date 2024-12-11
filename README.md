@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Sudharsan
+## Hi there 👋 It's me Sudharsan T
 
 - 🌱 I’m currently learning DSA, ML
 - 👯 I’m looking to collaborate on ML
