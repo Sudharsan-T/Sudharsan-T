@@ -4,8 +4,6 @@
 - 👯 I’m looking to collaborate on ML
 - 🤔 I’m looking for help with Data Structures
 - 💬 Ask me about Datas
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sudharsan-t-85361b1a4/)
 - 😄 Nick Name : Rookiee
 - ⚡ Fun fact: I Roast.
 
