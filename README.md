@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Sudharsan T
 
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on ML
-- 🤔 I’m looking for help with NLP
+- 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Datas
 - 😄 Nick Name : Rookiee
 - ⚡ Fun fact : I Roast.
