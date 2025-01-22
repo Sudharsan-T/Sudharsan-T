@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on ML
-- 🤔 I’m looking for help with Data Structures
+- 🤔 I’m looking for help with NLP
 - 💬 Ask me about Datas
 - 😄 Nick Name : Rookiee
-- ⚡ Fun fact: I Roast.
+- ⚡ Fun fact : I Roast.
 
 ---
 
