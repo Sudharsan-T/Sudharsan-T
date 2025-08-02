@@ -35,7 +35,7 @@
 ```diff
 hi, I'm Sudharsan 👨‍💻
 + Aspiring Software Developer 💻
-@@ B.Tech 2025 🎓 @@
+@@ B.Tech 2026 VEL TECH UNIVERSITY🎓 @@
 + Python Dev
 + Open Source Contributor
 - Tech Community Builder 🌐
