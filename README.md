@@ -174,8 +174,9 @@ hi, I'm Sudharsan 👨‍💻
 <br>
 
 
-### Holopin Badges
+### Achievements 
 
-[![sannidhya](https://github.com/user-attachments/assets/e7eba20c-7543-4886-bd77-3f6f798cdade)](https://www.holopin.io/@sannidhya#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sudharsan-T&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
- <p align = "center" > Made with 🤍 by Sannidhya. :p </p>
+
+ <p align = "center" > Made with 🤍 by Sudharsan :) </p>
