@@ -70,10 +70,6 @@ hi, I'm Sudharsan 👨‍💻
 
 
 
-<a>
-  <img src="https://komarev.com/ghpvc/?username=Sudharsan-T&label=Profile%20views&color=0e75b6&style=flat" alt="Sudharsan-T" />
-</a>
-
   </div>
 
 ## Languages and Tools
