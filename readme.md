@@ -9,4 +9,4 @@ wants to work with me or have a career opportunity mail me at sudharsant44@gmail
 
 projects that i have built in last few months are:
 
-- [heloq](https://github.com/unsafe0x0/heloq) : jwt like token library
+- [internhunt-v2](https://github.com/Sudharsan-T/internhunt-v2) : internship finding platform
