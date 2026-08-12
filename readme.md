@@ -1,4 +1,4 @@
-வணக்கம், i'm Sudharsan aka *dharsan* i build backend systems that works
+வணக்கம், i build backend systems that works
 
 backend-focused developer working with **Python**.
 i build APIs, backend systems, and data-driven services that are meant to run in production.
